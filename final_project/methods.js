@@ -50,7 +50,7 @@ const searchByTitle = (title) => {
 };
 
 // Examples
-getAllBooks();
+// getAllBooks();
 searchByISBN(1);
-searchByAuthor("Jane Austen");
-searchByTitle("Pride and Prejudice");
+// searchByAuthor("Jane Austen");
+// searchByTitle("Pride and Prejudice");
